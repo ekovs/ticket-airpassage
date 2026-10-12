@@ -1,0 +1,18 @@
+# Скомпилированные файлы Java
+*.class
+
+# Папки сборщиков (Maven / Gradle)
+target/
+.gradle/
+build/
+
+# Настройки сред разработки (IntelliJ IDEA, Eclipse)
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Логи и системные файлы
+*.log
+.DS_Store
